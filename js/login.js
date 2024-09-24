@@ -30,7 +30,7 @@ const pinNumber = document.getElementById('pin-number').value;
 // console.log(phoneNumber , pinNumber);
 if(phoneNumber === '8' && pinNumber === '12345'){
    console.log('you are login in')
-   window.location.href ='/home.html';
+   window.location.href ='https://mehedihasan1337.github.io/Payoo-MFS/home.html';
     
 } 
 else{
